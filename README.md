@@ -1,4 +1,5 @@
 ### 👋HI, My name is Park Chan-ho!
+I`m an undergraduate student in the Department of Computer Convergence Software, Sejong Campus, Korea University.
 
 ### Interest
 - Web Server Programming
