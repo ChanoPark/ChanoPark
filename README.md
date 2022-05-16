@@ -1,4 +1,4 @@
-### 👋백엔드 개발자
+### 👋HI, My name is Park Chan-ho!
 
 ### Interest
 - Web Server Programming
