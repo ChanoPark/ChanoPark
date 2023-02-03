@@ -13,6 +13,7 @@ I`m an undergraduate student in the Department of Computer Convergence Software,
 ### Tech
 ##### Backend
 ![Spring-Boot Badge](https://img.shields.io/badge/Spring_Boot-gray?style=flat-square&logo=spring-boot)
+![Spring Security Badge](https://img.shields.io/badge/Spring_Security-green?style=flat-square&logo=spring-security&logoColor=lightgrey)
 ![Django Badge](https://img.shields.io/badge/Django-blue?style=flat-square&logo=django&logoColor=white)
 ![Mysql Badge](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![AMAZON_AWS Badge](https://img.shields.io/badge/Amazon&nbsp;AWS-orange?style=flat-square&logo=amazonaws&logoColor=white)
@@ -20,6 +21,8 @@ I`m an undergraduate student in the Department of Computer Convergence Software,
   ##### Frontend
   ![HTML5 Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3 Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+  ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
   
 
 ![Chanos's github stats](https://github-readme-stats.vercel.app/api?username=ChanoPark&show_icons=true&theme=tokyonight)
