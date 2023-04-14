@@ -1,16 +1,23 @@
-### 👋HI, My name is Park Chan-ho!
-I`m an undergraduate student in the Department of Computer Convergence Software, Sejong Campus, Korea University.
+## 👋HI, My name is Park Chan-ho!
 
-### Interest
+### 💫 Interest
 - Web Server Programming
 - Object Oriented Programming
+- Cloud Computing
 
-### Social
+### 🚴‍♂️ Experience
+- 2022-09 ~ 2022-12 TPMN, Product Engineering Intern
+- 2022-07 ~ 2022-08 DND 7th Member
+- 2017-03 ~ 2023-02 Korae Univ. Sejong, Department of Computer Convergence Software
+
+
+
+### 👥 Social
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-navy?style=flat-square&logo=github&link=https://chanos.tistory.com/)](https://chanos.tistory.com/) 
  [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/cxan._.xo/)](https://www.instagram.com/cxan._.xo/)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koc081900@korea.ac.kr)](mailto:koc081900@korea.ac.kr)
   
-### Tech
+### ⚔️ Tech
 ##### Backend
 ![Spring-Boot Badge](https://img.shields.io/badge/Spring_Boot-gray?style=flat-square&logo=spring-boot)
 ![Spring Security Badge](https://img.shields.io/badge/Spring_Security-green?style=flat-square&logo=spring-security&logoColor=lightgrey)
@@ -24,5 +31,4 @@ I`m an undergraduate student in the Department of Computer Convergence Software,
   ![JavaScript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
   ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
   
-
-![Chanos's github stats](https://github-readme-stats.vercel.app/api?username=ChanoPark&show_icons=true&theme=tokyonight)
+![ChanoPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanoPark&show_icons=true&theme=nightowl)
